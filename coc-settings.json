@@ -16,7 +16,7 @@
     "javascriptreact",
     "typescript.tsx",
     "css",
-    "markdown"
+    /* "markdown" */
   ],
   "eslint.filetypes": [
     "javascript",
