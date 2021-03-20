@@ -1,0 +1,9 @@
+.elixir_ls
+coc
+plugs
+logs
+temp
+assets/undo
+assets/swap
+assets/backup
+setup.sh
