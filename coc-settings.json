@@ -16,7 +16,9 @@
     "javascriptreact",
     "typescript.tsx",
     "css",
+    "elixir",
     /* "markdown" */
+    "python"
   ],
   "eslint.filetypes": [
     "javascript",
